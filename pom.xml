@@ -3,4 +3,11 @@
   <groupId>JenkinsTry</groupId>
   <artifactId>JenkinsTry</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+  <sonar.projectKey>nileshpardeshi_JenkinsTry</sonar.projectKey>
+  <sonar.organization>nileshpardeshi</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>2b6845506ecf3cf3503382846acaca02dcdfbd6e</sonar.login>
+</properties>
 </project>
